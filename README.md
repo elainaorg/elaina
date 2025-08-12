@@ -1,16 +1,18 @@
-# 伊蕾娜
+# Elaina
 
-伊蕾娜（日语：イレイナ）是由白石定规创作、あずーる插画的轻小说《魔女之旅》及其衍生作品的登场角色。
+Elaina (Japanese: イレイナ) is a character appearing in the light novel Wandering Witch: The Journey of Elaina, written by Jōgi Shiraishi and illustrated by Azure, as well as its derivative works.
 
-| 属性     | 介绍                                               |
-| -------- | -------------------------------------------------- |
-| 本名     | イレイナ（Elaina）                                 |
-| 别号     | 灰之魔女（灰の魔女，Ashen Witch）屑魔女            |
-| 发色     | 灰发                                               |
-| 瞳色     | 琉璃瞳                                             |
-| 身高     | 约 150cm                                           |
-| 三围     | B:99 W:50 H:85/B:95 W:55 H:85（均为自我申报）      |
-| 年龄     | 14 岁(故事开始)→16~19 岁(主时间线)→25 岁(星霜之旅) |
-| 生日     | 10 月 17 日                                        |
-| 星座     | 天秤座                                             |
-| 出身地区 | 和平国罗贝塔                                       |
+| Attribute      | Description                                                                                     |
+|----------------|-------------------------------------------------------------------------------------------------|
+| Full Name      | イレイナ (Elaina)                                                                                   |
+| Alias          | Ashen Witch (灰の魔女), "Trash Witch"                                                               |
+| Hair Color     | Gray                                                                                            |
+| Eye Color      | Glazed Blue                                                                                     |
+| Height         | Approx. 150 cm                                                                                  |
+| Measurements   | B:99 W:50 H:85 / B:95 W:55 H:85 (self-reported)                                                 |
+| Age            | 14 years old (start of story) → 16–19 years old (main timeline) → 25 years old (Starry Journey) |
+| Birthday       | October 17                                                                                      |
+| Zodiac Sign    | Libra                                                                                           |
+| Place of Birth | Robetta, the Land of Peace                                                                      |
+
+[English](README.md) | [简体中文](zh-CN.md)
