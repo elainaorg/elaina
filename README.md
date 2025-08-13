@@ -1,3 +1,6 @@
+
+[English](README.md) | [简体中文](README_zhCN.md)
+
 # Elaina
 
 Elaina (Japanese: イレイナ) is a character appearing in the light novel Wandering Witch: The Journey of Elaina, written by Jōgi Shiraishi and illustrated by Azure, as well as its derivative works.
@@ -14,5 +17,3 @@ Elaina (Japanese: イレイナ) is a character appearing in the light novel Wand
 | Birthday       | October 17                                                                                      |
 | Zodiac Sign    | Libra                                                                                           |
 | Place of Birth | Robetta, the Land of Peace                                                                      |
-
-[English](README.md) | [简体中文](zh-CN.md)
